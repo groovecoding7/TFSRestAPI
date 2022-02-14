@@ -13,7 +13,7 @@ namespace TFSRestAPI
 		{
 			try
 			{
-				var personalaccesstoken = "43k5vefvv6ljniu74eegmlbcsq2dampettv3uceb5i37i3kdw2ba";
+				var personalaccesstoken = "";
 
 				using (HttpClient client = new HttpClient())
 				{

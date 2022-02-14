@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using TFSRestAPI;
 
-QueryExecutor queryHandler = new QueryExecutor("ACVS", "43k5vefvv6ljniu74eegmlbcsq2dampettv3uceb5i37i3kdw2ba");
+QueryExecutor queryHandler = new QueryExecutor("ACVS", "");
 
 var workItems = queryHandler.QueryOpenBugs("NewU");
 
